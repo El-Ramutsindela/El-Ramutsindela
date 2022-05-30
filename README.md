@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @El-Ramutsindela
-- 👀 I’m interested in Software Development, Artificial intelligence,  
+- 👀 I’m interested in Mobile Development, Machine Learnin
 - 🌱 I’m currently learning Cybersecurity, specifically Cloud security.
 - 💞️ I’m looking to collaborate on projects, seminars, exercises, hackathon and bootcamps.
 - 📫 How to reach me?
